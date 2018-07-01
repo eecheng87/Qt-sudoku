@@ -1,0 +1,5 @@
+1.It is a sudoku game created by QT
+2.The games feature including custom problem typed by user, generating random 
+  problem, solving problem(using backtracking algorithm), checking the answer
+  whether correct or not.
+3.The file "sudokutable.cpp" and "sudokutable.h" need to be deleted.
